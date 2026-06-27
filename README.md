@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════ HEADER ═══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=200&section=header&text=Ali%20Hassan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=17&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Ali%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=60&descAlign=50"/>
 
 <!-- ═══════════════════════════════════════ TYPING ANIMATION ══════════════════════════════════════ -->
 <div align="center">
@@ -12,7 +12,7 @@
 <div align="center">
 
   <a href="https://portfolio-ali-hassan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/ali-hassan-a294a4411" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,6 +22,19 @@
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ali-hassan-542&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════ CERT BADGES ═════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/IBM_Certified-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Certified"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00B247?style=flat-square&logo=statuspage&logoColor=white" alt="Open to Work"/>
 </div>
 
 <br/>
@@ -50,7 +63,9 @@ Fun Fact   : I turn ideas into real-world software solutions 💡
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-hassan-542&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-hassan-542&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -141,4 +156,4 @@ Fun Fact   : I turn ideas into real-world software solutions 💡
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer"/>
