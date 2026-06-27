@@ -3,7 +3,7 @@
 
 <!-- ═══════════════════════════════════════ TYPING ANIMATION ══════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=750&lines=🚀+Building+AI-Powered+Real-World+Solutions;💻+Full+Stack+Web+Developer;🤖+Backend+AI+Engineering+Intern+%40+FlyRank+AI;☁️+Exploring+Cloud%2C+DevOps+%26+LLMs;🎓+CS+Student+%40+UMT+Lahore+%7C+Class+of+2026" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=750&lines=Building+AI-Powered+Solutions;Full+Stack+Web+Developer;Backend+AI+Intern+%40+FlyRank+AI;Cloud%2C+DevOps+%26+LLM+Explorer;CS+Student+%40+UMT+Lahore+%7C+2026" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -50,7 +50,7 @@ Fun Fact   : I turn ideas into real-world software solutions 💡
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-hassan-542&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-hassan-542&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
