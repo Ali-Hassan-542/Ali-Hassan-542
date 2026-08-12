@@ -210,16 +210,27 @@ I value clean code, clear communication, continuous learning, and ownership. Whe
 ---
 
 <!-- ============================================= -->
-<!--   GitHub Trophies                             -->
+<!--   GitHub Insights                             -->
 <!-- ============================================= -->
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="assets/github-trophies.svg" alt="GitHub Trophies" width="100%" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAli-Hassan-542&query=%24.public_repos&label=Repositories&style=for-the-badge&color=36BCF7" alt="Public Repositories" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=FF6B35&label=Profile+Views" alt="Profile Views" />
 </p>
 
----
+| 🎯 Milestone | 🏆 Achievement |
+| --- | --- |
+| 🎓 B.S. Information Technology | Virtual University of Pakistan |
+| 🏢 Full-Stack Internship | Internee.pk (Current) |
+| 💼 Freelancing | 2 Years 8 Months of Real Client Work |
+| 🏭 Software Internship | Systems Limited (Alumni) |
+| 🛠️ Production Skills | PHP · Laravel · MySQL · Python · AI Tools |
+| 🚀 Active Growth | LLMs · Docker · Kubernetes · AWS |
+
+<hr>
 
 <!-- ============================================= -->
 <!--   GitHub Stats                                -->
