@@ -1,53 +1,61 @@
 <!-- ============================================= -->
-<!--   Banner (hosted inside the repo -> 100% loads) -->
+<!--   Banner                                      -->
 <!-- ============================================= -->
-<!-- BANNER DISABLED - uncomment below when ready to display
 <p align="center">
-  <img src="banner.png" width="100%" alt="Ali Hassan | Full Stack Developer & AI & Cybersecurity Enthusiast | IT Specialist" />
+  <img src="https://raw.githubusercontent.com/Ali-Hassan-542/Ali-Hassan-542/main/banner.png" width="100%" alt="Ali Hassan | Full Stack Developer & AI & Cybersecurity Enthusiast | IT Specialist" />
 </p>
--->
 
 <!-- ============================================= -->
 <!--   Typing Animation                            -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=780&height=45&lines=Full+Stack+Web+Developer;Backend+AI+Engineer;IT+Support+%26+Cloud+Enthusiast;Cyber-Security+%26+Automation+Enthusiast;Building+Real-World+Secure+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=820&height=55&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+%F0%9F%94%90;IT+Specialist+%26+Problem+Solver+%F0%9F%A7%A0;Building+Secure%2C+Scalable+Solutions+%F0%9F%9A%80;Open+to+Collaboration+%26+Opportunities+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ============================================= -->
 <!--   Quick Links & Socials                       -->
 <!-- ============================================= -->
-<p align="center">
-  <a href="https://portfolio-ali-hassan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1B2E?style=for-the-badge&logo=react&logoColor=36BCF7" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ali78601hassan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ali-Hassan-542">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" bgcolor="#0D1117">
+      <font color="#FFFFFF"><strong>Connect with me:</strong></font>
+      <br />
+      <br />
+      <a href="https://portfolio-ali-hassan.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="Portfolio" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:ali78601hassan@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/Ali-Hassan-542">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- ============================================= -->
-<!--   Table of Contents (working anchor links)    -->
+<!--   Table of Contents                           -->
 <!-- ============================================= -->
 <p align="center">
   <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-currently">Current Work</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
   <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-trophies">Trophies</a> •
+  <a href="#-github-stats">Stats</a> •
   <a href="#-certifications">Certifications</a> •
-  <a href="#-github-stats">GitHub Stats</a> •
-  <a href="#-contribution-graph">Activity</a> •
-  <a href="#-snek-animation">Snek</a> •
+  <a href="#-snek-animation">Snake</a> •
   <a href="#-connect-with-me">Contact</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B35&height=3&width=100%" width="100%" alt="divider" />
 
 ---
 
@@ -57,153 +65,99 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:12px" />
+
 ```text
 Name      : Ali Hassan
-Role      : Full Stack Developer | Backend AI Engineer | IT Support & Cloud Enthusiast
-Education : BS Computer Software Engineering @ UMT Lahore (2022 - 2026)
-Current   : Backend AI Engineering Intern @ FlyRank AI (US-based)
-             Junior AI Consultant @ HSI TEAM (US-based)
-Experience: Former Intern @ Systems Limited
-Focus     : Secure Backend Systems · AI-Powered Solutions · Cloud & DevOps
-Learning  : LLMs · Docker · Kubernetes · Cloud Infrastructure
-Fun Fact  : I turn complex problems into elegant, real-world software 💡
+Role      : Full Stack Developer · IT Support Technician · AI Expert · Prompt Engineering · Cybersecurity
+Education : BS Information Technology
+            Virtual University of Pakistan
+Current   : Full-Stack Web Developer Intern @ Internee.pk
+            Freelancer
+Experience: 2 years 8 months as a Freelancer
+            Former Intern @ Systems Limited
+Focus     : Full-Stack Web Development · IT Support · AI Solutions · Cybersecurity
+Learning  : Prompt Engineering · LLMs · Docker · Kubernetes · AWS
+Fun Fact  : I turn complex problems into elegant software 💡
 ```
 
-I'm a **Full Stack Developer** with a strong foundation in **C++** and deep experience building robust, scalable web applications. My journey started with C++ — mastering data structures, algorithms, and memory management — which sharpened my analytical approach to problem solving.
+I'm a **Full Stack Developer**, **IT Support Technician**, **AI expert**, **Prompt Engineering practitioner**, and **Cybersecurity-focused problem solver** currently studying **Information Technology at Virtual University of Pakistan**. I have around **2 years and 8 months of freelance experience**, where I have worked with real client requirements, deadlines, debugging challenges, and practical business-focused development tasks.
 
-I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for automation and data-driven solutions. Currently exploring **AI/ML, LLMs, Docker, and DevOps** to build intelligent, production-ready systems. With **IELTS C1 (British Council)** certification, I collaborate comfortably with international teams.
+My core strength is building complete web solutions with **PHP/Laravel, MySQL, Python, JavaScript, HTML, CSS, and modern frontend tools**. I enjoy working on APIs, database-driven applications, authentication flows, admin dashboards, automation scripts, responsive interfaces, and user-focused platforms that turn ideas into working products.
+
+I have recently started my **Full-Stack Web Developer internship at Internee.pk**, where I am sharpening my development workflow, project discipline, teamwork, and production-level understanding. Alongside full-stack development, I am actively growing in **AI, prompt engineering, cybersecurity, cloud infrastructure, Docker, Kubernetes, and LLM-based solutions**.
+
+I value clean code, clear communication, continuous learning, and ownership. Whether I am solving an IT support issue, designing a database schema, improving a frontend workflow, writing backend logic, or experimenting with AI tools, I try to bring curiosity, discipline, and a practical problem-solving mindset to the work.
+
+<br clear="right" />
+
+---
+
+<!-- ============================================= -->
+<!--   Currently                                   -->
+<!-- ============================================= -->
+
+## 🔭 Currently
+
+<table align="center">
+  <tr>
+    <td>🚀 <b>Internship</b></td>
+    <td>Full-Stack Web Developer Intern @ Internee.pk</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Freelancing</b></td>
+    <td>Working as a Freelancer with 2 years 8 months of experience</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Prompt Engineering · LLMs · Docker · Kubernetes · Cloud Infrastructure (AWS)</td>
+  </tr>
+  <tr>
+    <td>👯 <b>Collaborating</b></td>
+    <td>Open-source and client-focused projects in AI, Cybersecurity & Full Stack Web Dev</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask Me About</b></td>
+    <td>Full-Stack Web Development · IT Support · AI Prompt Engineering · Cybersecurity</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun Fact</b></td>
+    <td>I turn complex problems into elegant software 💡</td>
+  </tr>
+</table>
 
 ---
 
 <!-- ============================================= -->
 <!--   Tech Stack                                  -->
 <!-- ============================================= -->
-<hr>
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,flutter,vite&theme=dark&perline=9" alt="Frontend Skills" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="50"><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="50"><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="50"><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="50"><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="50"><br>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="50"><br>
-      <sub><b>Vite</b></sub>
-    </td>
-  </tr>
-</table>
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,cpp,fastapi&theme=dark&perline=9" alt="Backend Skills" />
+</p>
 
-### Backend Development
+<h3 align="center">🗄️ Database & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github,linux,postman&theme=dark&perline=9" alt="Database & DevOps" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="50"><br>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="50"><br>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="50"><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"><br>
-      <sub><b>C++</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Database & DevOps
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50"><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="50"><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="50"><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="50"><br>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="50"><br>
-      <sub><b>Postman</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Cloud & AI Tools
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="50"><br>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="50"><br>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50"><br>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="50"><br>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
-</table>
-
-<hr>
+<h3 align="center">☁️ Cloud & AI Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,figma,vscode,tensorflow&theme=dark&perline=9" alt="Cloud & AI Tools" />
+</p>
 
 ---
 
 <!-- ============================================= -->
-<!--   Featured Projects (all links verified)      -->
+<!--   Featured Projects                           -->
 <!-- ============================================= -->
 
 ## 🚀 Featured Projects
@@ -215,15 +169,15 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
       <p>Secure web-based healthcare platform for digitizing patient records, appointments, billing & role-based admin control.</p>
       <b>PHP · MySQL · Bootstrap · JavaScript</b><br/><br/>
       <a href="https://github.com/Ali-Hassan-542/Patient-Record-Management-System">
-        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B35" alt="View Repo" />
       </a>
     </td>
     <td align="center" width="50%">
       <h3>📡 SafeTrack — Online Tracking Web App</h3>
-      <p>Consent-based live location tracking demo with Leaflet maps, permission & consent management. Privacy-first design.</p>
-      <b>JavaScript · Bootstrap 5 · Leaflet · PHP</b><br/><br/>
+      <p>Consent-based live location tracking with permission & consent management, clean UI, and privacy-first design.</p>
+      <b>HTML · CSS · JavaScript · Bootstrap 5</b><br/><br/>
       <a href="https://github.com/Ali-Hassan-542/Online-Tracking-Web-App">
-        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B35" alt="View Repo" />
       </a>
     </td>
   </tr>
@@ -233,7 +187,7 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
       <p>Premium un-stitched women's clothing store with product catalog, cart, secure checkout & admin dashboard.</p>
       <b>HTML · CSS · JavaScript · PHP</b><br/><br/>
       <a href="https://github.com/Ali-Hassan-542/Elegant-Wear">
-        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B35" alt="View Repo" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -241,7 +195,7 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
       <p>Complete IPTV solution with live TV, VOD library, subscription plans & a powerful admin panel.</p>
       <b>HTML · CSS · JavaScript</b><br/><br/>
       <a href="https://github.com/Ali-Hassan-542/IPTV-Complete-with-Admin-Dashboard">
-        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FF6B35" alt="View Repo" />
       </a>
     </td>
   </tr>
@@ -249,8 +203,49 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
 
 <p align="center">
   <a href="https://github.com/Ali-Hassan-542?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-36BCF7?style=for-the-badge&logo=github&logoColor=0D1B2E" alt="All Repositories" />
+    <img src="https://img.shields.io/badge/View_All_Repositories-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--   GitHub Trophies                             -->
+<!-- ============================================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="assets/github-trophies.svg" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--   GitHub Stats                                -->
+<!-- ============================================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ali-Hassan-542&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=F8D866&text_color=FFFFFF&cache_seconds=1800" alt="Live GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-Hassan-542&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&cache_seconds=1800" alt="Live Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ali-Hassan-542&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=888888&border_radius=10" alt="Live GitHub Streak" />
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--   Contribution Graph                          -->
+<!-- ============================================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan-542&custom_title=Ali%20Hassan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&title_color=FF6B35&line=FF6B35&point=F8D866&area=true&area_color=FF6B35&hide_border=true&radius=10&height=300&days=60" alt="Live GitHub Contribution Graph" width="98%" />
 </p>
 
 ---
@@ -272,37 +267,6 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
 ---
 
 <!-- ============================================= -->
-<!--   GitHub Stats                                -->
-<!-- ============================================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=Ali-Hassan-542&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Ali-Hassan-542&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ali-Hassan-542&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36BCF7&sideLabels=36BCF7" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- ============================================= -->
-<!--   Contribution Graph                          -->
-<!-- ============================================= -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan-542&bg_color=0D1117&color=36BCF7&line=0E75B6&point=F8D866&area=true&area_color=0E75B6&hide_border=true" alt="Contribution Graph" width="98%" />
-  </a>
-</p>
-
----
-
-<!-- ============================================= -->
 <!--   Snek Animation                              -->
 <!-- ============================================= -->
 
@@ -317,6 +281,7 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
 <!-- ============================================= -->
 <!--   Quote                                       -->
 <!-- ============================================= -->
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
@@ -324,27 +289,40 @@ I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for 
 ---
 
 <!-- ============================================= -->
-<!--   Contact                                     -->
+<!--   Connect With Me                             -->
 <!-- ============================================= -->
 
 ## 📬 Connect With Me
 
+<table align="center" border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" bgcolor="#0D1117">
+      <font color="#FFFFFF"><strong>Connect with me:</strong></font>
+      <br />
+      <br />
+      <a href="https://portfolio-ali-hassan.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="Portfolio" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="mailto:ali78601hassan@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/Ali-Hassan-542">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://portfolio-ali-hassan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1B2E?style=for-the-badge&logo=react&logoColor=36BCF7" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ali78601hassan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <i>"Code with Logic. Build with Passion. Ship with Pride."</i>
 </p>
 
 <p align="center">
-  <i>"Code with Logic. Build with Passion."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=130&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" alt="Footer" />
 </p>
