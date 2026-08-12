@@ -1,159 +1,343 @@
-<!-- ═══════════════════════════════════════════ HEADER ═══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Ali%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=60&descAlign=50"/>
+<!-- ============================================= -->
+<!--   Banner (hosted inside the repo -> 100% loads) -->
+<!-- ============================================= -->
+<!-- BANNER DISABLED - uncomment below when ready to display
+<p align="center">
+  <img src="banner.png" width="100%" alt="Ali Hassan | Full Stack Developer & AI & Cybersecurity Enthusiast | IT Specialist" />
+</p>
+-->
 
-<!-- ═══════════════════════════════════════ TYPING ANIMATION ══════════════════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=750&lines=Building+AI-Powered+Solutions;Full+Stack+Web+Developer;Backend+AI+Intern+%40+FlyRank+AI;Cloud%2C+DevOps+%26+LLM+Explorer;CS+Student+%40+UMT+Lahore+%7C+2026" alt="Typing Animation" />
-</div>
+<!-- ============================================= -->
+<!--   Typing Animation                            -->
+<!-- ============================================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=780&height=45&lines=Full+Stack+Web+Developer;Backend+AI+Engineer;IT+Support+%26+Cloud+Enthusiast;Cyber-Security+%26+Automation+Enthusiast;Building+Real-World+Secure+Solutions" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<!-- ════════════════════════════════════════ SOCIAL BADGES ════════════════════════════════════════ -->
-<div align="center">
-
-  <a href="https://portfolio-ali-hassan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/ali-hassan-a294a4411" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
+<!-- ============================================= -->
+<!--   Quick Links & Socials                       -->
+<!-- ============================================= -->
+<p align="center">
+  <a href="https://portfolio-ali-hassan.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1B2E?style=for-the-badge&logo=react&logoColor=36BCF7" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:ali78601hassan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ali-hassan-542&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Ali-Hassan-542">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════ CERT BADGES ═════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/IBM_Certified-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Certified"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Certified"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00B247?style=flat-square&logo=statuspage&logoColor=white" alt="Open to Work"/>
-</div>
-
-<br/>
+<!-- ============================================= -->
+<!--   Table of Contents (working anchor links)    -->
+<!-- ============================================= -->
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-contribution-graph">Activity</a> •
+  <a href="#-snek-animation">Snek</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════ ABOUT ME ═════════════════════════════════════════════ -->
-## 🧑‍💻 About Me
+<!-- ============================================= -->
+<!--   About Me                                    -->
+<!-- ============================================= -->
+## 👨‍💻 About Me
 
-```yaml
-Name       : Ali Hassan
-Role       : Full Stack Developer | Backend AI Engineer | IT Support & Cloud Enthusiast
-Education  : BS Computer Software Engineering @ UMT Lahore (2022 – 2026)
-Current    : Backend AI Engineering Intern @ FlyRank AI (US-based)
+```text
+Name      : Ali Hassan
+Role      : Full Stack Developer | Backend AI Engineer | IT Support & Cloud Enthusiast
+Education : BS Computer Software Engineering @ UMT Lahore (2022 - 2026)
+Current   : Backend AI Engineering Intern @ FlyRank AI (US-based)
              Junior AI Consultant @ HSI TEAM (US-based)
-Experience : Former Intern @ Systems Limited
-Building   : AI-Powered Portfolio Assistant → portfolio-ali-hassan.netlify.app
-Learning   : LLMs | Docker | DevOps | Cloud Infrastructure
-Ask Me     : Full Stack Dev · Databases · Networking · Automation · AI Tools
-Fun Fact   : I turn ideas into real-world software solutions 💡
+Experience: Former Intern @ Systems Limited
+Focus     : Secure Backend Systems · AI-Powered Solutions · Cloud & DevOps
+Learning  : LLMs · Docker · Kubernetes · Cloud Infrastructure
+Fun Fact  : I turn complex problems into elegant, real-world software 💡
 ```
 
+I'm a **Full Stack Developer** with a strong foundation in **C++** and deep experience building robust, scalable web applications. My journey started with C++ — mastering data structures, algorithms, and memory management — which sharpened my analytical approach to problem solving.
+
+I specialize in **PHP/Laravel + MySQL** backend architecture and **Python** for automation and data-driven solutions. Currently exploring **AI/ML, LLMs, Docker, and DevOps** to build intelligent, production-ready systems. With **IELTS C1 (British Council)** certification, I collaborate comfortably with international teams.
+
 ---
 
-<!-- ════════════════════════════════════════ TROPHIES ═════════════════════════════════════════════ -->
-## 🏆 GitHub Trophies
+<!-- ============================================= -->
+<!--   Tech Stack                                  -->
+<!-- ============================================= -->
+<hr>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-hassan-542&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="50"><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="50"><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="50"><br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="50"><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="50"><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="50"><br>
+      <sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="50"><br>
+      <sub><b>Vite</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Backend Development
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="50"><br>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="50"><br>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="50"><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"><br>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Database & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="50"><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="50"><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="50"><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="50"><br>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Cloud & AI Tools
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="50"><br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="50"><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50"><br>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="50"><br>
+      <sub><b>Figma</b></sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+---
+
+<!-- ============================================= -->
+<!--   Featured Projects (all links verified)      -->
+<!-- ============================================= -->
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🩺 PRMS — Patient Record Management System</h3>
+      <p>Secure web-based healthcare platform for digitizing patient records, appointments, billing & role-based admin control.</p>
+      <b>PHP · MySQL · Bootstrap · JavaScript</b><br/><br/>
+      <a href="https://github.com/Ali-Hassan-542/Patient-Record-Management-System">
+        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📡 SafeTrack — Online Tracking Web App</h3>
+      <p>Consent-based live location tracking demo with Leaflet maps, permission & consent management. Privacy-first design.</p>
+      <b>JavaScript · Bootstrap 5 · Leaflet · PHP</b><br/><br/>
+      <a href="https://github.com/Ali-Hassan-542/Online-Tracking-Web-App">
+        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>👗 Elegant Wear — E-Commerce Platform</h3>
+      <p>Premium un-stitched women's clothing store with product catalog, cart, secure checkout & admin dashboard.</p>
+      <b>HTML · CSS · JavaScript · PHP</b><br/><br/>
+      <a href="https://github.com/Ali-Hassan-542/Elegant-Wear">
+        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📺 IPTV — Streaming + Admin Dashboard</h3>
+      <p>Complete IPTV solution with live TV, VOD library, subscription plans & a powerful admin panel.</p>
+      <b>HTML · CSS · JavaScript</b><br/><br/>
+      <a href="https://github.com/Ali-Hassan-542/IPTV-Complete-with-Admin-Dashboard">
+        <img src="https://img.shields.io/badge/View_Repo-0D1B2E?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Ali-Hassan-542?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-36BCF7?style=for-the-badge&logo=github&logoColor=0D1B2E" alt="All Repositories" />
   </a>
-</div>
+</p>
 
 ---
 
-<!-- ════════════════════════════════════════ TECH STACK ══════════════════════════════════════════ -->
-## 🛠️ Tech Stack & Tools
+<!-- ============================================= -->
+<!--   Certifications                              -->
+<!-- ============================================= -->
+## 🏅 Certifications
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🤖 AI & Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+| Credential | Issuer | Status |
+| --- | --- | --- |
+| 🧠 Full Stack Development | Professional Certification | ✅ Certified |
+| 🗣️ IELTS Academic (B2 Advanced) | British Council | ✅ Certified |
+| 🖧 Cisco Networking | Cisco | ✅ Certified |
+| 💻 C++ Programming & OOP | Professional Certification | ✅ Certified |
+| 🤝 Soft Skills (Leadership & Teamwork) | Professional Certification | ✅ Certified |
 
 ---
 
-<!-- ════════════════════════════════════════ GITHUB STATS ═════════════════════════════════════════ -->
-## 📊 GitHub Statistics
+<!-- ============================================= -->
+<!--   GitHub Stats                                -->
+<!-- ============================================= -->
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-hassan-542&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F8D866&text_color=ffffff" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassan-542&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=Ali-Hassan-542&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Ali-Hassan-542&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hassan-542&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=ffffff" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- ════════════════════════════════════════ ACTIVITY GRAPH ══════════════════════════════════════ -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-hassan-542&bg_color=0D1117&color=36BCF7&line=0e75b6&point=F8D866&area=true&area_color=0e75b6&hide_border=true" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ali-Hassan-542&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36BCF7&sideLabels=36BCF7" alt="GitHub Streak" />
+</p>
 
 ---
 
-<!-- ════════════════════════════════════════ FOOTER ══════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
+<!-- ============================================= -->
+<!--   Contribution Graph                          -->
+<!-- ============================================= -->
+## 📈 Contribution Graph
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan-542&bg_color=0D1117&color=36BCF7&line=0E75B6&point=F8D866&area=true&area_color=0E75B6&hide_border=true" alt="Contribution Graph" width="98%" />
+  </a>
+</p>
 
-<div align="center">
-  <b>✨ "Turning Ideas into Real-World Solutions, One Commit at a Time." ✨</b>
-</div>
+---
 
-<br/>
+<!-- ============================================= -->
+<!--   Snek Animation                              -->
+<!-- ============================================= -->
+## 🐍 Snek Animation
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--   Quote                                       -->
+<!-- ============================================= -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--   Contact                                     -->
+<!-- ============================================= -->
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-ali-hassan.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1B2E?style=for-the-badge&logo=react&logoColor=36BCF7" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-hassan-a294a4411">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ali78601hassan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code with Logic. Build with Passion."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+</p>
