@@ -9,7 +9,7 @@
 <!--   Typing Animation                            -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=820&height=55&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+%F0%9F%94%90;IT+Specialist+%26+Problem+Solver+%F0%9F%A7%A0;Building+Secure%2C+Scalable+Solutions+%F0%9F%9A%80;Open+to+Collaboration+%26+Opportunities+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=900&height=55&lines=Full-Stack+Developer+%26+IT+Support+Technician+%F0%9F%92%BB;PHP+%E2%80%A2+Laravel+%E2%80%A2+AI+Expert+%E2%80%A2+Prompt+Engineering+%E2%80%A2+Cybersecurity+%F0%9F%94%90;Building+Secure+%26+Smart+Web+Applications+%F0%9F%9A%80;Driven+by+Logic%2C+Fueled+by+Curiosity+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+%F0%9F%94%90;IT+Specialist+%26+Problem+Solver+%F0%9F%A7%A0;Building+Secure%2C+Scalable+Solutions+%F0%9F%9A%80;Open+to+Collaboration+%26+Opportunities+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ============================================= -->
@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       &nbsp;&nbsp;
-      <a href="mailto:ali78601hassan@gmail.com">
+      <a href="mailto:ah5682333@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
       &nbsp;&nbsp;
@@ -48,7 +48,7 @@
   <a href="#-currently">Current Work</a> •
   <a href="#️-tech-stack">Tech Stack</a> •
   <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-trophies">Trophies</a> •
+  <a href="#-github-insights">Insights</a> •
   <a href="#-github-stats">Stats</a> •
   <a href="#-certifications">Certifications</a> •
   <a href="#-snek-animation">Snake</a> •
@@ -75,7 +75,6 @@ Education : BS Information Technology
 Current   : Full-Stack Web Developer Intern @ Internee.pk
             Freelancer
 Experience: 2 years 8 months as a Freelancer
-            Former Intern @ Systems Limited
 Focus     : Full-Stack Web Development · IT Support · AI Solutions · Cybersecurity
 Learning  : Prompt Engineering · LLMs · Docker · Kubernetes · AWS
 Fun Fact  : I turn complex problems into elegant software 💡
@@ -83,7 +82,7 @@ Fun Fact  : I turn complex problems into elegant software 💡
 
 I'm a **Full Stack Developer**, **IT Support Technician**, **AI expert**, **Prompt Engineering practitioner**, and **Cybersecurity-focused problem solver** currently studying **Information Technology at Virtual University of Pakistan**. I have around **2 years and 8 months of freelance experience**, where I have worked with real client requirements, deadlines, debugging challenges, and practical business-focused development tasks.
 
-My core strength is building complete web solutions with **PHP/Laravel, MySQL, Python, JavaScript, HTML, CSS, and modern frontend tools**. I enjoy working on APIs, database-driven applications, authentication flows, admin dashboards, automation scripts, responsive interfaces, and user-focused platforms that turn ideas into working products.
+My core strength is building complete web solutions with **PHP/Laravel, MySQL, TypeScript, C++, Python, JavaScript, HTML, CSS, and modern frontend tools**. I enjoy working on APIs, database-driven applications, authentication flows, admin dashboards, automation scripts, responsive interfaces, and user-focused platforms that turn ideas into working products.
 
 I have recently started my **Full-Stack Web Developer internship at Internee.pk**, where I am sharpening my development workflow, project discipline, teamwork, and production-level understanding. Alongside full-stack development, I am actively growing in **AI, prompt engineering, cybersecurity, cloud infrastructure, Docker, Kubernetes, and LLM-based solutions**.
 
@@ -221,14 +220,14 @@ I value clean code, clear communication, continuous learning, and ownership. Whe
   <img src="https://komarev.com/ghpvc/?username=Ali-Hassan-542&style=for-the-badge&color=FF6B35&label=Profile+Views" alt="Profile Views" />
 </p>
 
-| 🎯 Milestone | 🏆 Achievement |
-| --- | --- |
-| 🎓 B.S. Information Technology | Virtual University of Pakistan |
-| 🏢 Full-Stack Internship | Internee.pk (Current) |
-| 💼 Freelancing | 2 Years 8 Months of Real Client Work |
-| 🏭 Software Internship | Systems Limited (Alumni) |
-| 🛠️ Production Skills | PHP · Laravel · MySQL · Python · AI Tools |
-| 🚀 Active Growth | LLMs · Docker · Kubernetes · AWS |
+| 🎯 Milestone                   | 🏆 Achievement                            |
+| ------------------------------ | ----------------------------------------- |
+| 🎓 B.S. Information Technology | Virtual University of Pakistan            |
+| 🏢 Full-Stack Internship       | Internee.pk (Current)                     |
+| 💼 Freelancing                 | 2 Years 8 Months of Real Client Work      |
+| 🏭 Software Internship         | Systems Limited (Alumni)                  |
+| 🛠️ Production Skills           | PHP · Laravel · MySQL · Python · AI Tools |
+| 🚀 Active Growth               | LLMs · Docker · Kubernetes · AWS          |
 
 <hr>
 
@@ -267,13 +266,12 @@ I value clean code, clear communication, continuous learning, and ownership. Whe
 
 ## 🏅 Certifications
 
-| Credential                             | Issuer                     | Status       |
-| -------------------------------------- | -------------------------- | ------------ |
-| 🧠 Full Stack Development              | Professional Certification | ✅ Certified |
-| 🗣️ IELTS Academic (B2 Advanced)        | British Council            | ✅ Certified |
-| 🖧 Cisco Networking                     | Cisco                      | ✅ Certified |
-| 💻 C++ Programming & OOP               | Professional Certification | ✅ Certified |
-| 🤝 Soft Skills (Leadership & Teamwork) | Professional Certification | ✅ Certified |
+| Credential | Issuer | Issued | Credential ID | Verify |
+| --- | --- | --- | --- | --- |
+| 🌐 **Networking Essentials** | Cisco Networking Academy | Jul 2023 | `7e88894d-ca72-484b-9bb2-dc4bcf253f93` | — |
+| 🤝 **Soft Skills Training** | ICMPD | Feb 2026 | `b04359f1` | [Verify](https://softskills.oec.gov.pk/certificate/b04359f1) |
+| 💻 **CS107: C++ Programming** | Saylor Academy | Feb 2026 | `1228771491AH` | [Verify](https://learn.saylor.org/admin/tool/certificate/index.php?code=1228771491AH) |
+| 🧠 **Become A Certified Web Developer From Scratch** | Eduonix Learning Solutions | Feb 2026 | `5a9c12187d` | [Verify](https://www.eduonix.com/certificate/5a9c12187d) |
 
 ---
 
@@ -319,7 +317,7 @@ I value clean code, clear communication, continuous learning, and ownership. Whe
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="mailto:ali78601hassan@gmail.com">
+      <a href="mailto:ah5682333@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
       &nbsp;&nbsp;&nbsp;
