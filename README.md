@@ -249,15 +249,25 @@ I value clean code, clear communication, continuous learning, and ownership. Whe
 ---
 
 <!-- ============================================= -->
+
 <!--   Contribution Graph                          -->
+
 <!-- ============================================= -->
 
-## 📈 Contribution Graph
+📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan-542&custom_title=Ali%20Hassan%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&title_color=FF6B35&line=FF6B35&point=F8D866&area=true&area_color=FF6B35&hide_border=true&radius=10&height=300&days=60" alt="Live GitHub Contribution Graph" width="98%" />
+  <a href="https://github.com/Ali-Hassan-542" target="_blank">
+    <img
+      src="https://ghchart.xqsit94.in/dark:ff6b35/Ali-Hassan-542"
+      alt="Ali Hassan GitHub Contribution Graph"
+      width="98%" />
+  </a>
 </p>
 
+<p align="center">
+  <sub>Live contribution data for <strong>Ali-Hassan-542</strong> • Open the graph to visit the GitHub profile.</sub>
+</p>
 ---
 
 <!-- ============================================= -->
